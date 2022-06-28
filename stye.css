@@ -1,0 +1,29 @@
+.card-img-top{
+    width: 100%;
+    min-height: 42vh;
+    background-size: cover;
+}
+
+#navTops a:hover{
+    border: none;
+    box-shadow: 1mm 0.5ch #cbd3da;
+    outline: none;   
+    
+}
+
+#cardListMovies > .cardMovie{
+    height: 80vh;
+}
+
+.cardMovie > div.card{
+    height: 80vh;
+    /* margin-bottom: 1px;   */
+}
+
+
+
+/* #navTops a:focus{
+    border: none;
+    box-shadow: 3rem 2rem red;
+    outline: 1rem solid red;
+} */
